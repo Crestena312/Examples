@@ -1,0 +1,144 @@
+# depslib dependency file v1.0
+1714003822 source:c:\users\123\desktop\coursework\backorder_1.c
+	"backorder_1.h"
+	<stdlib.h>
+	<stdio.h>
+
+1714087141 c:\users\123\desktop\coursework\backorder_1.h
+
+1714003820 source:c:\users\123\desktop\coursework\backordered.c
+	"backordered.h"
+	<stdlib.h>
+	<stdio.h>
+
+1714087153 c:\users\123\desktop\coursework\backordered.h
+
+1714003819 source:c:\users\123\desktop\coursework\bulb.c
+	"bulb.h"
+	"Test.h"
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
+1714087176 c:\users\123\desktop\coursework\bulb.h
+	<time.h>
+
+1714087535 c:\users\123\desktop\coursework\test.h
+
+1714310321 source:c:\users\123\desktop\coursework\bulb_1.c
+	"bulb_1.h"
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
+1714087199 c:\users\123\desktop\coursework\bulb_1.h
+	<time.h>
+
+1714472310 source:c:\users\123\desktop\coursework\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"measurment.h"
+	"Test.h"
+	"Common_vector_1.h"
+	"random.h"
+	"backordered.h"
+	"random_1.h"
+	"ordered.h"
+	"ordered_1.h"
+	"backorder_1.h"
+	"bulb.h"
+	"bulb_1.h"
+	"Shell.h"
+	"Shell2.h"
+	"Shell_1.h"
+	"Shell_2.h"
+
+1713827540 c:\users\123\desktop\coursework\measurment.h
+	<time.h>
+
+1714582127 c:\users\123\desktop\coursework\common_vector_1.h
+
+1714087328 c:\users\123\desktop\coursework\random.h
+
+1714087345 c:\users\123\desktop\coursework\random_1.h
+
+1714087304 c:\users\123\desktop\coursework\ordered.h
+
+1714087291 c:\users\123\desktop\coursework\ordered_1.h
+
+1714087374 c:\users\123\desktop\coursework\shell.h
+	<time.h>
+
+1714087400 c:\users\123\desktop\coursework\shell2.h
+	<time.h>
+
+1714087479 c:\users\123\desktop\coursework\shell_1.h
+	<time.h>
+
+1714087496 c:\users\123\desktop\coursework\shell_2.h
+	<time.h>
+
+1714683900 source:c:\users\123\desktop\coursework\measurment.c
+	"measurment.h"
+	<stdio.h>
+
+1714003816 source:c:\users\123\desktop\coursework\ordered.c
+	"ordered.h"
+	<stdlib.h>
+	<stdio.h>
+
+1714003815 source:c:\users\123\desktop\coursework\ordered_1.c
+	"ordered_1.h"
+	<stdlib.h>
+	<stdio.h>
+
+1713964497 source:c:\users\123\desktop\coursework\random.c
+	"random.h"
+	<stdlib.h>
+	<stdio.h>
+
+1713735783 source:c:\users\123\desktop\coursework\random_1.c
+	"random_1.h"
+	<stdlib.h>
+	<stdio.h>
+
+1714691011 source:c:\users\123\desktop\coursework\shell.c
+	"Shell.h"
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+	<math.h>
+
+1714691027 source:c:\users\123\desktop\coursework\shell2.c
+	"Shell2.h"
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+	<math.h>
+
+1714309735 source:c:\users\123\desktop\coursework\shell_1.c
+	"Shell_1.h"
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+	<math.h>
+
+1714691238 source:c:\users\123\desktop\coursework\shell_2.c
+	"Shell_2.h"
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+	<math.h>
+
+1714087092 source:c:\users\123\desktop\coursework\test.c
+	"ordered.h"
+	"random.h"
+	"backordered.h"
+	"Test.h"
+	"bulb.h"
+	"Shell.h"
+	"Shell2.h"
+	<stdio.h>
+	<stdlib.h>
+
